@@ -27,11 +27,6 @@
 ![Git](https://img.shields.io/badge/git-F93827?style=for-the-badge&logo=git&logoColor=white)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutoshk-20/ashutoshk-20/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutoshk-20/ashutoshk-20/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ashutoshk-20/ashutoshk-20/output/github-snake.svg" />
-</picture>
 
 
 
